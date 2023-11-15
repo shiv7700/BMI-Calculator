@@ -4,7 +4,7 @@ A BMI (Body Mass Index) calculator is a tool used to assess an individual's body
 
 The formula for calculating BMI is:
 
-```
+```javascript
 const bmi = weight (kg) / height * height (cm) / 10000
 ​
 
